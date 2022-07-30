@@ -1,0 +1,35 @@
+*{
+    background-color: #E0C9A9;
+}
+h2{
+    background-color: #963102;
+    color:#FFFFFF;
+    width:max-content;
+    border-radius: 10px;
+    font-family:'Times New Roman', Times, serif;
+}
+table{    
+    border:0px;    
+    margin-left: auto;   
+    margin-top: 40px;   
+
+}
+footer{
+    float: right;
+    font-family:'Courier New', Courier, monospace;
+    justify-content:flex-end;
+    text-align: right;
+}
+.baslık{
+    color:#963102;
+    text-decoration: underline;
+}
+#head-1{
+    color:#5E2610;
+}
+.container{   
+    margin:5px;
+    width: 90%;   
+    height: 90%;
+
+}
